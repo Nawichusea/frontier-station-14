@@ -9,7 +9,7 @@
   parent: BaseVessel
   name: MSS Firameq
   description: "A large cargo sorting pseudo-station."
-  price: 129 000 # appraised at:~111435 marked up by 15%: 16715.25 price rounded up.
+  price: 129000 # appraised at:~111435 marked up by 15%: 16715.25 price rounded up.
   category: Large
   group: Shipyard
   shuttlePath: /Maps/_NF/Shuttles/Firameq.yml
