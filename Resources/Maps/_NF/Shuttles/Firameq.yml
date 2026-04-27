@@ -12208,8 +12208,6 @@ entities:
       pos: 13.5,-20.5
       parent: 1
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 2224
       - 2225
@@ -14672,8 +14670,6 @@ entities:
       pos: 15.5,-20.5
       parent: 1
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 2225
     - type: AtmosPipeColor
@@ -14828,8 +14824,6 @@ entities:
       pos: 10.5,-19.5
       parent: 1
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 2224
     - type: AtmosPipeLayers
@@ -14844,7 +14838,6 @@ entities:
       parent: 1
     - type: DeviceNetwork
       configurators:
-      - invalid
       deviceLists:
       - 2225
     - type: AtmosPipeLayers
@@ -17951,8 +17944,6 @@ entities:
       pos: 11.5,-21.5
       parent: 1
     - type: DeviceNetwork
-      configurators:
-      - invalid
 - proto: SolarPanel
   entities:
   - uid: 912
