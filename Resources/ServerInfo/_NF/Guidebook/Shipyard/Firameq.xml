@@ -30,7 +30,6 @@
 <Box>
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Bolt Sale Airlocks"/>
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Toggle Airlock/Blast Doors"/>
-  <GuideEntityEmbed Entity="SignalButton" Caption="Conveyor Belts"/>
 </Box>
 
 [color=#a4885c]Entire Craft[/color]
