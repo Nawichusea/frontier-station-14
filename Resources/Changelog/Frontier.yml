@@ -8391,3 +8391,15 @@ Entries:
   id: 6663
   time: '2026-05-08T08:08:11.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4491
+- author: Herbtheon
+  changes:
+    - type: Add
+      message: >-
+        Frontier cats now can wear most departmental EVA suits, emegency EVA
+        suit, and chief engineer's hardsuit as well as jetpacks and bottomless
+        gas tank.
+    - type: Fix
+      message: Fixed dog's inability to wear black, blue, and security Jetpacks.
+  id: 6664
+  time: '2026-05-08T08:12:27.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4444
