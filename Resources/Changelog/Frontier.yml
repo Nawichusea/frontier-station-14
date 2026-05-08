@@ -8382,3 +8382,12 @@ Entries:
   id: 6662
   time: '2026-05-08T07:51:12.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4492
+- author: Menshin
+  changes:
+    - type: Fix
+      message: >-
+        Alt-clicking paper with pen in hand now prioritize signing it over
+        eating it.
+  id: 6663
+  time: '2026-05-08T08:08:11.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4491
