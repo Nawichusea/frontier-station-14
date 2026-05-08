@@ -8361,3 +8361,14 @@ Entries:
   id: 6660
   time: '2026-05-05T19:42:36.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4503
+- author: JojyAsmir
+  changes:
+    - type: Tweak
+      message: Increased Claymore speed from 0.75 to 1.0
+    - type: Tweak
+      message: >-
+        Increased Katana speed from 1.0 to 1.25, and increased damage from 15 to
+        16.
+  id: 6661
+  time: '2026-05-08T07:50:06.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4493
