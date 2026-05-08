@@ -8372,3 +8372,13 @@ Entries:
   id: 6661
   time: '2026-05-08T07:50:06.0000000+00:00'
   url: https://github.com/new-frontiers-14/frontier-station-14/pull/4493
+- author: Minerva
+  changes:
+    - type: Add
+      message: >-
+        You may now select "folder (mixed papers)" in backpack item loadouts.
+        This folder contains an assortment of papers, even business cards and
+        colored papers.
+  id: 6662
+  time: '2026-05-08T07:51:12.0000000+00:00'
+  url: https://github.com/new-frontiers-14/frontier-station-14/pull/4492
